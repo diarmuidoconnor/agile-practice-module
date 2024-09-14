@@ -1,3 +1,3 @@
-# Containerization with Docker.
+# Introduction to Docker.
 
-Virtulation, Containerization, Docker
+Background to Containerization and pntroduction to Docker
