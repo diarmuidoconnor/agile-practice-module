@@ -1,3 +1,3 @@
 # CI/CD Process
 
-CI/CD is an integrap part of a modelr software development process.
+CI/CD is an integral part of an Agile software development process.
