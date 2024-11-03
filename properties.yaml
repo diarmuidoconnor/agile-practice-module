@@ -10,5 +10,5 @@ ignorepin: 1213
 ignore:
   # - topic01
   # - topic01
-  - topic02
+  # - topic02
   # - topic13
