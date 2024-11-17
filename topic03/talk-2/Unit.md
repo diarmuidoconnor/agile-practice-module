@@ -1,3 +1,3 @@
-# Testing Principles & Frameworks.inciples of testing. Unit testing frameworks
- 
-Pr
+# Testing Principles & Frameworks.
+
+Principles of testing. Unit testing frameworks
