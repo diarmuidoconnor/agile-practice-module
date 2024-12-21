@@ -8,7 +8,7 @@ slack: https://agilesetu.slack.com/
 moodle: https://moodle.wit.ie/user/index.php?id=209284
 ignorepin: 1213
 ignore:
-  - topic01
+  # - topic01
   # - topic01
   # - topic02
   - topic90
