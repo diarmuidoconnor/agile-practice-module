@@ -1,4 +1,4 @@
-Agile Software Practice
+DevOps Practice
 
 Docker · CI/CD · Automated testing 
 
